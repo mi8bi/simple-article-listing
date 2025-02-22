@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://simple-article-listing-theta.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solution/45720">
       Solution
     </a>
     <span> | </span>
@@ -63,5 +63,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
 - GitHub [mi8bi](https://github.com/mi8bi)
